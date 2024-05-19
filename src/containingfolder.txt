@@ -1,0 +1,7 @@
+poids |taches                                                              |entets
+1     |init background                                                     |void initBack(Background *b)
+1     |affich backgroundimg et son qui change selon la difficulter         |void afficher background(background b,SDL_Surface *screen)
+1.5   |partages d ecran                                                    |
+1.5   |scrolling                                                           |void scrolling(SDL_Rect *b,int direction)
+1.5   |animer background                                                   |void animerBack(Back *b)
+1.5   |ajouter un button meilleure score pour afficher 3 meilleures scores |sauvgarde scores
